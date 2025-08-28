@@ -75,7 +75,7 @@ inside govwa directory:
 docker-compose up --build
 
 stop running process using
-docker-compose down --remove-orphans --volumes
+docker-compose down --remove-orphans --volumes test
 
 ```
 
