@@ -26,4 +26,4 @@ jobs:
         with:
           file-path: container-image.tar
           file-type: BINARY_CONTAINER
-          debug: "true"
+          debug: "true" 
